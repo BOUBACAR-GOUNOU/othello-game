@@ -17,6 +17,8 @@ Le jeu d'Othello est un jeu de stratégie qui se joue sur un plateau de 64 cases
 4. Exécutez la classe `OthelloApplication`
 
 ## Structure de l'Interface
+<img src="othello-game/othello-game.png" alt="Othello Game" width="300">
+
 L'interface du jeu comporte plusieurs éléments :
 
 ### Barre Supérieure
