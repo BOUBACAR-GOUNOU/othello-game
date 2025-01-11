@@ -142,6 +142,11 @@ Pour étendre ou modifier l'application :
 - **ALLOKPENOUDJI Clairemode Placida Sètchémè**
 - **DIA Mouhamadou Afiss**
 - **Boubacar GOUNOU**
-- **OUATTARA Sie s**
+- **OUATTARA Sie**
+
+## Remerciements
+
+- Ce projet a été réalisé dans le cadre d'un travail pratique visant à approfondir les compétences en Java et en Gestion du projet Informatique à l'**Université d'Aix-Marseille** (AMU).  
+- Le plan de ce TP a été proposé par **F.-X. Dupé, A. Labourel, J. L. Massat**, tous enseignant à l'Université d'Aix-Marseille.  
 
 
